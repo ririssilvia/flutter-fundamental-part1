@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Praktikum 2
 
-![plot](image/1.png)
+![plot](images/1.png)
