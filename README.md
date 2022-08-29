@@ -29,3 +29,6 @@ Langkah 4: Dialog Widget
 
 Langkah 5: Input dan Selection Widget
 ![plot](images/8.png)
+
+Langkah 6: Date and Time Pickers
+![plot](images/9.png)
