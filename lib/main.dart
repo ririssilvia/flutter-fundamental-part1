@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'basic_widgets/image_widget.dart';
+import 'basic_widgets/loading_cupertino.dart';
 import 'basic_widgets/text_widget.dart';
 
 void main() {
@@ -27,7 +28,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const LoadingCupertino(),
     );
   }
 }
