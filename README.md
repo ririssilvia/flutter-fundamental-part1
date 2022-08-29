@@ -23,3 +23,6 @@ Langkah 2: Floating Action Button (FAB)
 
 Langkah 3: Scaffold Widget
 ![plot](images/6.png)
+
+Langkah 4: Dialog Widget
+![plot](images/7.png)
