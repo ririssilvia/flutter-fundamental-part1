@@ -17,3 +17,6 @@ Hasil dari image
 ## Praktikum 4
 Langkah 1: Cupertino Button dan Loading Bar
 ![plot](images/4.png)
+
+Langkah 2: Floating Action Button (FAB)
+![plot](images/5.png)

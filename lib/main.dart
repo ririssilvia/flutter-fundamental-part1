@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'basic_widgets/fab_widget.dart';
 import 'basic_widgets/image_widget.dart';
 import 'basic_widgets/loading_cupertino.dart';
 import 'basic_widgets/text_widget.dart';
@@ -28,7 +29,8 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const LoadingCupertino(),
+      //home: const LoadingCupertino(),
+      home: const FabWidget()
     );
   }
 }
