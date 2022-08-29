@@ -26,3 +26,6 @@ Langkah 3: Scaffold Widget
 
 Langkah 4: Dialog Widget
 ![plot](images/7.png)
+
+Langkah 5: Input dan Selection Widget
+![plot](images/8.png)
