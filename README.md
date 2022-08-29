@@ -3,5 +3,10 @@
 A new Flutter project.
 
 ## Praktikum 2
+Hasil Hello word
 
 ![plot](images/1.png)
+
+## Praktikum 3
+Hasil dari Text
+![plot](images/2.png)
