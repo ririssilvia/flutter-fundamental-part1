@@ -1,7 +1,7 @@
 # hello_world
 
 A new Flutter project.
-
+# Tugas 1
 ## Praktikum 2
 Hasil Hello word
 
@@ -32,3 +32,9 @@ Langkah 5: Input dan Selection Widget
 
 Langkah 6: Date and Time Pickers
 ![plot](images/9.png)
+
+# Tugas 2
+
+![plot](images/10.png)
+Pada praktikum 4 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder basic_widgets, kemudian pada file main.dart cukup melakukan import widget 
+
